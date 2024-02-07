@@ -12,6 +12,12 @@ Pal, Ajit Kumar. (2015, Oct 23). BookBank. [https://github.com/ajitpal/BookBank]
 
 - TO DO: Break out each book into into it's own unique reference, one for each book.
 
-IndifferentGhost. (2023, Feb 22). Heroku Alternatives. [herokuAlternatives](/docs/herokuAlternatives.md)
+Heroku Alternatives. [herokuAlternatives](/docs/herokuAlternatives.md)
 
-Garret (2023, Mar 21). Use this Google search to find hiring managers on Linked in. [findHiringManagerLinkedin](/docs/findHiringManagersLinkedin.md)
+Use this Google search to find hiring managers on Linked in. [findHiringManagerLinkedin](/docs/findHiringManagersLinkedin.md)
+
+Sharing code on Discord. [shareCodeOnDiscord](/docs/discordShareCode.md)
+
+ATHLEAN-X (2020, Sep 27) The PERFECT Daily Posture Routine (UNDO SITTING!). YouTube. [https://www.youtube.com/watch?v=h3PZZyoXnKU&ab_channel=ATHLEAN-X%E2%84%A2](https://www.youtube.com/watch?v=h3PZZyoXnKU&ab_channel=ATHLEAN-X%E2%84%A2)
+
+Alan Thrall (2016, Dec 8) Daily Mobility Routine - Increase Flexibility / Mobility. YouTube. https://www.youtube.com/watch?v=SsT_go-oCcQ&ab_channel=AlanThrall%28UntamedStrength%29
