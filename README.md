@@ -2,13 +2,14 @@
 
 A list of resources used in 100devs.
 
-TODO:
+### TODO:
 
 Add links to resources.
 In the resource channel, many users are asking questions to find resources. Figure out what's the best way to search for resources.
 The oldest message in resources on 8/2/2020.
 
-DONE:
+### DONE:
+
 ~~Add the pinned messages.~~ The pinned messages have been added!
 
 ### References
