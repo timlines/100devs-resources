@@ -37,6 +37,8 @@ Markdown tutorial. [https://commonmark.org/help/tutorial/](https://commonmark.or
 
 MDN. [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
 
+SVG Icons as React Components. [https://reactsvgicons.com/](https://reactsvgicons.com/)
+
 Anki. [ankiweb.net](https://apps.ankiweb.net/)
 
 Dr. Barbara Oakley. Learning How to Learn. Coursera. [https://www.coursera.org/learn/learning-how-to-learn](https://www.coursera.org/learn/learning-how-to-learn)
