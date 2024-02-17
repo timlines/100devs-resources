@@ -229,3 +229,53 @@ Fun Fun Function. composition over Inheritance. [https://www.youtube.com/watch?v
 Web Dev Simplified. Single Responsibility Principle Explained - SOLID Design Principles [https://www.youtube.com/watch?v=UQqY3_6Epbg&ab_channel=WebDevSimplified](https://www.youtube.com/watch?v=UQqY3_6Epbg&ab_channel=WebDevSimplified)
 
 freeCodeCamp.org. Clean Code: SOLID - Beau teaches JavaScript. YouTube. [https://www.youtube.com/watch?v=XzdhzyAukMM&ab_channel=freeCodeCamp.org](https://www.youtube.com/watch?v=XzdhzyAukMM&ab_channel=freeCodeCamp.org)
+
+Jim Cooper. Javascript Objects, Prototypes, and Classes. objectspluralsight.com [pluralsight.com/courses/javascript-objects-prototypes-classes](https://www.pluralsight.com/courses/javascript-objects-prototypes-classess)
+
+CodeCombat. Learn to code and use AI, all through the power of play. [https://codecombat.com/](https://codecombat.com/)
+
+Cody Lindley. Front-end Developer Handbook 2019. [https://frontendmasters.com/guides/front-end-handbook/2019/?](https://frontendmasters.com/guides/front-end-handbook/2019/?)
+
+slickdeals. Computer/Laptop related deals, coupons, promo codes, and discounts. slickdeals.net. [https://slickdeals.net/forums/filtered/?f=9&sort=lastpost&order=&icon=23](https://slickdeals.net/forums/filtered/?f=9&sort=lastpost&order=&icon=23)
+
+Shop talk show. A weekly podcast about building websites. shoptalkshow.com [https://shoptalkshow.com/](https://shoptalkshow.com/)
+
+Wes Bos, Scott Tolinski, CJ Reynolds. Syntax: Tasty Treats for Web Developers. syntax.fm. [https://syntax.fm/](https://syntax.fm/)
+
+Indie Hackers. The best posdcast for indie hackers, by indie hackers. indiehackers.com. [https://www.indiehackers.com/podcasts](https://www.indiehackers.com/podcasts)
+
+envato tuts+. WordPress for Beginners (Free Course). tutsplus.com. [https://webdesign.tutsplus.com/wordpress-for-beginners-free-course--ytc-46c](https://webdesign.tutsplus.com/wordpress-for-beginners-free-course--ytc-46c)
+
+Alison Quaglia. Into the Unknown: Advice for Breaking into the Tech Industry. medium.com. [https://levelup.gitconnected.com/into-the-unknown-advice-for-breaking-into-the-tech-industry-9ba3ce52645](https://levelup.gitconnected.com/into-the-unknown-advice-for-breaking-into-the-tech-industry-9ba3ce52645)
+
+Dr. Piotr Wozniak (1999 Feb) Effective learning: Twenty rules of formulating knowledge. supermemo.com. [https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
+
+JavaScript Flashcards for Beginners - Learn Key Functions to Start Exercises. [https://summonthejson.com/products/javascript-flashcards](https://summonthejson.com/products/javascript-flashcards)
+
+Programming Notes for Professionals books. goalkicker.com. [https://goalkicker.com/](https://goalkicker.com/)
+
+7 Git tricks that changed my life. opensource.com. [https://opensource.com/article/20/10/advanced-git-tips](https://opensource.com/article/20/10/advanced-git-tips)
+
+Web Skills. A visual overview of usefull skills to learn as a web devleoper. github.io. [https://andreasbm.github.io/web-skills/](https://andreasbm.github.io/web-skills/)
+
+6 Best React.js Books for Beginners and Experienced Web Developers. [https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2](https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2)
+
+CS50 2020 - Lecture 8 - HTML, CSS, JavaScript (pre-release). [https://www.youtube.com/watch?v=xvkHFSNfzyQ&ab_channel=CS50](https://www.youtube.com/watch?v=xvkHFSNfzyQ&ab_channel=CS50)
+
+Coding Addict. React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks. [https://www.youtube.com/watch?v=iZhV0bILFb0&ab_channel=CodingAddict](https://www.youtube.com/watch?v=iZhV0bILFb0&ab_channel=CodingAddict)
+
+Coding Addict. React Projects. [https://www.youtube.com/watch?v=ly3m6mv5qvg&ab_channel=CodingAddict](https://www.youtube.com/watch?v=ly3m6mv5qvg&ab_channel=CodingAddict)
+
+Software Engineering Daily. podcast.apple.com. [https://podcasts.apple.com/ng/podcast/software-engineering-daily/id1019576853](https://podcasts.apple.com/ng/podcast/software-engineering-daily/id1019576853)
+
+Goodgrief. Dementia + loss. [https://www.goodgrieffest.com/events/grief-school-dementia-loss/](https://www.goodgrieffest.com/events/grief-school-dementia-loss/)
+
+4 Lessons From My 4 Years at Instagram & Facebook as a Software Engineer. medium.com. [https://medium.com/swlh/4-lessons-from-my-4-years-at-facebook-instagram-as-a-software-engineer-cc0b7c18678](https://medium.com/swlh/4-lessons-from-my-4-years-at-facebook-instagram-as-a-software-engineer-cc0b7c18678)
+
+Programming with ADD/ADHD closed. stackexchange.com. [https://softwareengineering.stackexchange.com/questions/116730/programming-with-add-adhd](https://softwareengineering.stackexchange.com/questions/116730/programming-with-add-adhd)
+
+Introduction to IP - CompTIA Network+ N10-007 - 1.1. YouTube. [https://www.youtube.com/watch?v=M5c9HdaQqh0&t=94s&ab_channel=ProfessorMesser](https://www.youtube.com/watch?v=M5c9HdaQqh0&t=94s&ab_channel=ProfessorMesser)
+
+CrashCourse. The Internet: Crash Course Computer Science #29. YouTube.com. [https://www.youtube.com/watch?v=AEaKrq3SpW8&ab_channel=CrashCourse](https://www.youtube.com/watch?v=AEaKrq3SpW8&ab_channel=CrashCourse)
+
+Advice to Myself When Starting Out as a Software Developer. [https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/)
