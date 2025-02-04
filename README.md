@@ -5,7 +5,7 @@ TODO:
 
 Add links to resources.
 
-<center>References</center>
+### References
 
 Pal, Ajit Kumar. (2015, Oct 23). BookBank. [https://github.com/ajitpal/BookBank](https://github.com/ajitpal/BookBank)
 
