@@ -7,6 +7,7 @@
 - Add links to resources.
 - In the resource channel, many users are asking questions to find resources. Figure out what's the best way to search for resources.
 - How are should this handle large websites of lots of good info like MDN? Should some sub topics be included for example arrow_functions?
+- Try adding a webhook to discord. 
 
 # DONE:
 
