@@ -9007,11 +9007,18 @@ GitHub - florinpop17/app-ideas: A Collection of application ideas w...
 
 
 let arr = discordMessages.split('--');
-console.log(arr);
+// console.log(arr);
 
 // const re = /(?i:)\b((?:https?:\/\/|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}\/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:'".,<>?«»“”‘’]))/
 
 // console.log(discordMessages.match(re));
 
+let newArr = arr.join('').split('\n')
 
-console.log(arr.join('\n'))
+let myFilter = newArr.filter((element) => element != '{Embed}')
+// let myFilter2 = myFilter.filter((element) => element != '')
+
+// console.log( myFilter );
+
+console.log(myFilter.join('\n'))
+
