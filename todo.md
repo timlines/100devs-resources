@@ -6,6 +6,7 @@
 - In the resource channel, many users are asking questions to find resources. Figure out what's the best way to search for resources.
 - How should this handle large websites of lots of good info like MDN? Should some sub topics be included for example arrow_functions? or should it just list the home page of the site? or some combination of both?
 - figure out how to add the most recent comments to the log and update.
+- Add a way to search for discord channels.
 
 # DONE:
 
