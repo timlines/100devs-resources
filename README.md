@@ -7031,3 +7031,6 @@ https://www.youtube.com/watch?v=8GUYAVXmhsI
 
 https://github.com/florinpop17/app-ideas
 GitHub - florinpop17/app-ideas: A Collection of application ideas w...
+
+Structy is your guide to data structure and algorithm interviews.
+https://www.structy.net/
